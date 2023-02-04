@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "374858851428",
+    "project_id": "poly-3c726",
+    "storage_bucket": "poly-3c726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374858851428:android:f3450fa0f826b915306b71",
+        "android_client_info": {
+          "package_name": "com.walker.poly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374858851428-sksejrgjdkkh8hksnf6s5q0vbkmqomi8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.walker.poly",
+            "certificate_hash": "60775b7042739775863b8f6f62d5c3cf58b38d2a"
+          }
+        },
+        {
+          "client_id": "374858851428-r5qlf24kqqmp68ur87cvoeiq9upqlb6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAncsGYzxTH-vgG2NoqoTuhlxwmkA_Esiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374858851428-r5qlf24kqqmp68ur87cvoeiq9upqlb6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

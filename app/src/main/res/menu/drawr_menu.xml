@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+
+    >
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_myqs"
+        android:title="My Questions"
+        android:icon="@drawable/ic_baseline_question_answer_24"/>
+    <item
+        android:id="@+id/nav_Finance"
+        android:title="Finance"
+        android:icon="@drawable/ic_fnc"/>
+    <item
+        android:id="@+id/nav_sport"
+        android:title="Sports"
+        android:icon="@drawable/ic_sport"/>
+    <item
+        android:id="@+id/nav_learn"
+        android:title="Learing"
+        android:icon="@drawable/ic_baseline_menu_book_24"/>
+
+    <item
+        android:id="@+id/nav_FOOD"
+        android:title="food"
+        android:icon="@drawable/ic_baseline_fastfood_24"
+
+
+        />
+
+
+
+</group>
+
+    <item android:title="Actions">
+
+
+
+
+        <menu>
+        <item android:id="@+id/share"
+            android:title="Share"
+            android:icon="@drawable/ic_baseline_share_24"
+
+            />
+            <item
+                android:title="Rate"
+                android:id="@+id/rate"
+                android:icon="@drawable/ic_baseline_rate_review_24"
+
+
+            />
+
+</menu>
+
+    </item>
+
+
+</menu>

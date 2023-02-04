@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AskActivity">
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/qs_toolbar"
+        android:background="#e28743"
+        android:elevation="4dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ask a Question"
+        android:gravity="center"
+        android:textSize="36dp"
+        android:textStyle="bold"
+        android:textColor="#e28743"
+        android:layout_margin="10dp"
+
+
+        />
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner"
+        android:layout_margin="10dp"
+        android:entries="@array/topics"
+
+
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your question here"
+        android:textSize="18sp"
+        android:layout_margin="10dp"
+        android:id="@+id/question_text"
+        android:textColor="#e28743"
+        android:textColorHint="#e28743"/>
+
+
+    <ImageView
+        android:id="@+id/question_image"
+        android:layout_margin="10dp"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_baseline_image_24"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Cancel"
+            android:textColor="#e28743"
+            android:layout_margin="10dp"
+            android:textSize="20sp"
+            android:textAllCaps="false"/>
+        <Button
+            android:id="@+id/save_post"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Post Question"
+            android:textColor="#e28743"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:textSize="20sp"
+            android:textAllCaps="false"/>
+
+</LinearLayout>
+
+
+
+
+</LinearLayout>

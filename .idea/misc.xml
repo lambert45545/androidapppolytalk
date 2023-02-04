@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Poly/app/src/main/res/drawable/add.xml" value="0.1" />
+        <entry key="..\:/Poly/app/src/main/res/drawable/ic_baseline_fastfood_24.xml" value="0.1" />
+        <entry key="..\:/Poly/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.10185185185185185" />
+        <entry key="..\:/Poly/app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.1" />
+        <entry key="..\:/Poly/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.17314814814814813" />
+        <entry key="..\:/Poly/app/src/main/res/drawable/ic_baseline_question_answer_24.xml" value="0.1" />
+        <entry key="..\:/Poly/app/src/main/res/drawable/ic_baseline_rate_review_24.xml" value="0.1" />
+        <entry key="..\:/Poly/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.1" />
+        <entry key="..\:/Poly/app/src/main/res/drawable/ic_fnc.xml" value="0.1" />
+        <entry key="..\:/Poly/app/src/main/res/drawable/ic_sport.xml" value="0.1" />
+        <entry key="..\:/Poly/app/src/main/res/layout/activity_ask.xml" value="0.22" />
+        <entry key="..\:/Poly/app/src/main/res/layout/activity_category.xml" value="0.1544943820224719" />
+        <entry key="..\:/Poly/app/src/main/res/layout/activity_finance2.xml" value="0.20729166666666668" />
+        <entry key="..\:/Poly/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Poly/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Poly/app/src/main/res/layout/activity_login2.xml" value="0.14396887159533073" />
+        <entry key="..\:/Poly/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Poly/app/src/main/res/layout/activity_registration.xml" value="0.20689655172413793" />
+        <entry key="..\:/Poly/app/src/main/res/layout/nav_header.xml" value="0.21" />
+        <entry key="..\:/Poly/app/src/main/res/layout/network_security_config.xml" value="0.1" />
+        <entry key="..\:/Poly/app/src/main/res/layout/questions_retrived_layout.xml" value="0.3114754098360656" />
+        <entry key="..\:/Poly/app/src/main/res/menu/drawr_menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
